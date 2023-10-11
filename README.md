@@ -7,7 +7,7 @@ Some features of this design:
 3. Routing with simple X-first schemes
 4. 2-stage pipelining, removing virtual channel allocation with virtual channel selection
 
-You can view [my blog]() for more details.
+You can view [my blog](https://bathtub-01.github.io/posts/implementing-an-on-chip-network-router-with-good-practices/) for more details.
 
 ## Usage
 
