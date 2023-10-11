@@ -1,0 +1,10 @@
+This is an implementation of a on-chip network router.
+
+Some features of this design:
+
+1. Flit-based wormhole flow control with configurable virtual channels
+2. Using credit-based traffic throttling
+3. Routing with simple X-first schemes
+4. 2-stage pipelining, removing virtual channel allocation with virtual channel selection
+
+You can view [my blog]() for more details.
