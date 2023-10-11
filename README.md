@@ -23,4 +23,4 @@ To run the test for above network, use the command:
 ```
 $ sbt 'testOnly mesh_network.NetworkExampleSpec'
 ```
-The test uses a state machine to inject packets into the network. Refer code in `./test/scala/mesh_network/RouterSpec.scala` if you want to modify the test. The tester will generate waveforms under `./test_run_dir`. You can use open-sourced tools such as (gtkwave)[https://gtkwave.sourceforge.net] to view the waveform.
+The test uses a state machine to inject packets into the network. Refer code in `./test/scala/mesh_network/RouterSpec.scala` if you want to modify the test. The tester will generate waveforms under `./test_run_dir`. You can use open-sourced tools such as [gtkwave](https://gtkwave.sourceforge.net) to view the waveform.
