@@ -1,4 +1,4 @@
-This is an implementation of a on-chip network router.
+This is an implementation of an on-chip network router, which can be used to construct a 2-D mesh network.
 
 Some features of this design:
 
